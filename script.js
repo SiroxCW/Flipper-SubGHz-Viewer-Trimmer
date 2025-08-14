@@ -71,7 +71,7 @@ function parseSubFile(content, fileName) {
         'Frequency': 'N/A',
         'Preset': 'N/A',
         'Protocol': 'N/A',
-        'Filetype': 'Flipper SubGhz RAW File',
+        'Filetype': 'Flipper SubGHz RAW File',
         'Version': '1'
     };
 
