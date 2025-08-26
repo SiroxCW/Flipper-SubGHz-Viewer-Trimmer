@@ -32,6 +32,6 @@ A powerful web-based analyzer for Flipper Zero SubGHz signal files that runs ent
 
 ## 🚀 Live Demo
 
-**[Try it now →](https://siroxcw.github.io/)**
+**[Try it now →](https://siroxcw.github.io/Flipper-SubGHz-Viewer-Trimmer)**
 
 No installation required - runs entirely in your browser!
